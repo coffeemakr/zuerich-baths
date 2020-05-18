@@ -20,7 +20,7 @@ for _, bath := range baths {
 ## Client
 There is a CLI just for fun.
 
-[![asciicast](https://asciinema.org/a/gIFY8jTLwdQqWHonZ3PdaJMQn.svg)](https://asciinema.org/a/gIFY8jTLwdQqWHonZ3PdaJMQn)
+![Screenshot of the command line interface](screenshot.png)]
 
 ## Weblinks
 * https://data.stadt-zuerich.ch/dataset/wassertemperaturen-freibaeder
