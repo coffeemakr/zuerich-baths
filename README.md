@@ -25,3 +25,4 @@ There is a CLI just for fun.
 ## Weblinks
 * https://data.stadt-zuerich.ch/dataset/wassertemperaturen-freibaeder
 * https://opendata.swiss/de/dataset/wassertemperaturen-freibader
+* API endpoint: https://www.stadt-zuerich.ch/stzh/bathdatadownload
