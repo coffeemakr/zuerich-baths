@@ -34,7 +34,7 @@ func Test_customApiGetBaths(t *testing.T) {
 		t.Errorf("Expcted 16 baths, but got %d", len(baths))
 	}
 }
-++++++++
+
 func Test_parseXml(t *testing.T) {
 	fp, err := os.Open(validResponseFile)
 	if err != nil {
